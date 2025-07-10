@@ -1,1 +1,1 @@
-# projects2
+# AI personal assistant
